@@ -1,0 +1,2 @@
+- Hi, I’m @RaidOptixz
+- I’m interested in using computer science for software development and other stuff.
